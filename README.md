@@ -28,8 +28,7 @@ A full-stack Todo application built using the MERN stack—**MongoDB, Express.js
 
 ### Clone the repository
 
-git clone https://github.com/your-username/mern-todo-app.git
-cd mern-todo-app
+git clone https://github.com/MuhammadAzeem20055400/task_wise
 
 ### Setup Backend
 
