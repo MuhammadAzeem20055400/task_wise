@@ -44,7 +44,7 @@ JWT_SECRET=your_secret_key
 
 ### Setup Frontend
 
-cd client
+cd frontend
 npm install
 npm start
 
