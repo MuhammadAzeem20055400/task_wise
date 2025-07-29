@@ -49,5 +49,8 @@ npm install
 npm start
 
 
+Backend Live Url : https://taskwise-backend-sawt.onrender.com/
+Frontend Live Url : https://taskwise-frontend-mmvn.onrender.com/
+
 
 
